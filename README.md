@@ -7,7 +7,7 @@ ___
 Photos to be used as a source of exif data should be located at the `photos` directory. A table with all geoposition data extracted expected to be saved to the `output` directory that is automatically created.
 A resulted map is plotted via [Folium](https://python-visualization.github.io/folium/latest/index.html) in the notebook cell output. To share the map one can use Google Collab sheets or save it to a file.
 
-### Cheatsheets:
+### How to use
 As a first prerequisite, conda should be installed. The miniconda edition is ok for all purposes related to exif parsing and map plotting.
 ```bash
 # if one wish to create an environment by their own
